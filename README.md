@@ -1,7 +1,5 @@
 <div align="center">
-	<a href="https://mateffy.me/mission-control-project">
-		<img src="resources/screenshot-2.0.0-rc6.png">
-	</a>
+	<img src="resources/screenshot-2.0.0-rc6.png">
 	<h1>Mission Control</h1>
 	<p>
 		Opinionated JavaScript framework for building real-time dashboards
@@ -45,7 +43,7 @@ Mission Control aims to provide all those features out-of-the-box so you can get
 Note: 2.0.0 is currently in pre-release but more stable than 0.x.x versions.
 
 ```sh
-$ npm install -g @capevace/mission-control@next
+$ npm install -g @noahalston/mission-control@next
 ```
 
 ## Usage
@@ -147,13 +145,11 @@ sudo setcap 'cap_net_bind_service=+ep' /usr/bin/node # Replace path to node bina
 
 ## Authors
 
-Lukas Mateffy – [@Capevace](https://twitter.com/capevace) – [mateffy.me](https://mateffy.me)
-
 Distributed under the MIT license. See `LICENSE` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/capevace/mission-control/fork>)
+1. Fork it (<https://github.com/noahalston/mission-control/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
