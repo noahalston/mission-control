@@ -81,7 +81,6 @@ A config file for mission-control will be created at `$HOME_DIR/.mission-control
 
 - Completely redesigned dashboard UI
 - Introduction of a flexible plugin system
-- Authentication is now handled by Mission Control itself, [single-sign-on](https://github.com/capevace/single-sign-on) is no longer required
 - Users now have profiles, which will be integrated with a solid permission system
 - Tons of bug fixes
 
