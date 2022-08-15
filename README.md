@@ -4,11 +4,6 @@
 	<p>
 		Opinionated JavaScript framework for building real-time dashboards
 	</p>
-	<p>
-		<a href="https://mission-control.js.org">Project Homepage</a>
-		<span>&nbsp;|&nbsp;</span>
-		<a href="https://mission-control.js.org">Docs</a>
-	</p>
 </div>
 
 <br>
